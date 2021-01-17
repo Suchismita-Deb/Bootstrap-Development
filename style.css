@@ -1,0 +1,8 @@
+.brand {
+  font-size: 30px;
+}
+.detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
